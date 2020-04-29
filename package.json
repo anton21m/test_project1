@@ -1,0 +1,26 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "blablabla",
+  "main": "main.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anton21m/project1.git"
+  },
+  "author": "Anton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anton21m/project1/issues"
+  },
+  "homepage": "https://github.com/anton21m/project1#readme",
+  "dependencies": {
+    "metarhia-common": "0.0.38"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}
