@@ -2,5 +2,5 @@
 
 console.log('Start');
 setTimeout(() => {
-    console.log('Stop');
+  console.log('Stop');
 }, 2000);
